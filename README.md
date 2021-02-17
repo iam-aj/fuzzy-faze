@@ -1,2 +1,4 @@
 # fuzzy-faze
-#Cool-Pics modification app !!!
+#Cool-Pics modification app !!!  
+
+![swagger](swag.jpg)
